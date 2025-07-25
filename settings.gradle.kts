@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Photo Gallary"
 include(":app")
+include(":data")
+include(":domain")
