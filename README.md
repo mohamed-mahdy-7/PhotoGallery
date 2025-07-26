@@ -1,7 +1,7 @@
 # Photo Gallery App
 
-![App Screenshot - Light Mode](screenshots/Screenshot_20250726_085039_Photo Gallary.jpg)
-![App Screenshot - Dark Mode](https://via.placeholder.com/300x600?text=Dark+Mode+Screenshot)
+![App Screenshot - Light Mode](https://raw.githubusercontent.com/mohamed-mahdy-7/PhotoGallery/master/screenshots/Screenshot_20250726_085049_Photo Gallary.jpg)
+![App Screenshot - Dark Mode](https://raw.githubusercontent.com/mohamed-mahdy-7/PhotoGallery/master/screenshots/dark_mode.png)
 
 ## Preview Video 
 
