@@ -34,6 +34,7 @@ I've implemented several key features to enhance the app's functionality and use
 * **Dynamic Theme Switching:** Users can effortlessly toggle between Light and Dark Modes, with their preference saved for subsequent app launches.
 * **Themed Splash Screen:** The initial splash screen intelligently adapts to the user's chosen theme, providing a consistent visual experience from the very start.
 * **Enhanced User Feedback:** Clear loading indicators and error messages guide the user through various states of the application.
+* **Unit tests** verify that individual components or "units" of code function correctly in isolation, enabling early bug detection, facilitating safe refactoring, and improving overall code quality.
 
 ## Architecture
 
