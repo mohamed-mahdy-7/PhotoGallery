@@ -41,5 +41,10 @@ dependencies {
     implementation("com.google.dagger:hilt-android:2.57")
     kapt("com.google.dagger:hilt-android-compiler:2.57")
 
+    testImplementation("junit:junit:4.13.2")
+    testImplementation("org.mockito.kotlin:mockito-kotlin:5.3.1") // For mocking in Kotlin
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.0") // For testing coroutines/flows
+    testImplementation("com.google.truth:truth:1.4.0") // For better assertions (optional)
+
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
 }
