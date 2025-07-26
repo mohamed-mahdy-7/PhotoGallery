@@ -1,6 +1,6 @@
 # Photo Gallery App
 
-![App Screenshot - Light Mode](https://raw.githubusercontent.com/mohamed-mahdy-7/PhotoGallery/master/screenshots/Screenshot_20250726_085049_Photo Gallary.jpg)
+![App Screenshot - Light Mode](screenshots/screenshootlight.png)
 ![App Screenshot - Dark Mode](https://raw.githubusercontent.com/mohamed-mahdy-7/PhotoGallery/master/screenshots/dark_mode.png)
 
 ## Preview Video 
