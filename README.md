@@ -1,11 +1,18 @@
 # Photo Gallery App
+### Light Mode
+![App Screenshot - Light Mode](screenshots/splashlight.png)
+![App Screenshot - Light Mode](screenshots/homelight.png)
+![App Screenshot - Light Mode](screenshots/homeloading.png)
+### Dark Mode
 
-![App Screenshot - Light Mode](screenshots/screenshootlight.png)
-![App Screenshot - Dark Mode](https://raw.githubusercontent.com/mohamed-mahdy-7/PhotoGallery/master/screenshots/dark_mode.png)
+![App Screenshot - Dark Mode](screenshots/Splashdark.png)
+![App Screenshot - Dark Mode](screenshots/homedark.png)
+
+### Offline Mode 
+![App Screenshot - Light Mode](screenshots/offlinelight.png)
+![App Screenshot - Dark Mode](screenshots/offlinedark.png)
 
 ## Preview Video 
-
-
 
 ## Overview
 
