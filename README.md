@@ -13,6 +13,7 @@
 ![App Screenshot - Dark Mode](screenshots/offlinedark.png)
 
 ## Preview Video 
+https://drive.google.com/file/d/1yfnoVRiSwbWZpO2FtwxEOnWHnuZZAsxY/view?usp=sharing
 
 ## Overview
 
